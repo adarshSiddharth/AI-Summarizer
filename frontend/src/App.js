@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import axios from 'axios';
-import './App.css';
-
+import './App.css'
 const API_URL = "https://ai-summarizer-backend-c8m2.onrender.com";
 
 function App() {
